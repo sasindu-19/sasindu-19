@@ -214,7 +214,7 @@ CI/CD             █████████████        65%
   <a href="https://linkedin.com/in/sasindukaveesha">
     <img src="https://img.shields.io/badge/Connect%20Pro-4ECDC4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=4ECDC4"/>
   </a>
-  <a href="https://sasindukaveesha.github.io">
+  <a href="https://sasindu-19.github.io/My-portfolio/">
     <img src="https://img.shields.io/badge/View%20Portfolio-45B7D1?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=45B7D1"/>
   </a>
 </p>
