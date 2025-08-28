@@ -1,305 +1,217 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> Hello World, I'm Sasindu Kaveesha!
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> **About Me**
 
 <div align="center">
   
-  <!-- Modern coding animation -->
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
+  <!-- Modern gradient banner with glassmorphism effect -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Sasindu%20Kaveesha&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Software%20Developer&descSize=18&descAlignY=55"/>
   
-  <!-- Custom animated typing with modern font -->
-  <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&height=80&lines=Full+Stack+Developer+%F0%9F%9A%80;Software+Engineer+%F0%9F%92%BB;Cloud+Enthusiast+%E2%98%81%EF%B8%8F;Problem+Solver+%F0%9F%A7%A9;Tech+Innovator+%E2%9C%A8" alt="Typing SVG" />
-  </h1>
-
-  <!-- Modern stats counter -->
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=sasindukaveesha&color=00f5ff&style=for-the-badge&label=VISITORS"/>
-    <img src="https://img.shields.io/github/followers/sasindukaveesha?style=for-the-badge&color=00f5ff&labelColor=1c1c1c"/>
-    <img src="https://img.shields.io/github/stars/sasindukaveesha?style=for-the-badge&color=00f5ff&labelColor=1c1c1c"/>
-  </p>
-  
-  <!-- Stylish social badges -->
-  <p align="center">
-    <a href="mailto:sasindukaveesha@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white&labelColor=FF6B6B"/>
-    </a>
-    <a href="https://linkedin.com/in/sasindukaveesha">
-      <img src="https://img.shields.io/badge/LinkedIn-4ECDC4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=4ECDC4"/>
-    </a>
-    <a href="https://sasindukaveesha.github.io">
-      <img src="https://img.shields.io/badge/Portfolio-45B7D1?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=45B7D1"/>
-    </a>
-    <a href="https://instagram.com/sasindu_kaveesha">
-      <img src="https://img.shields.io/badge/Instagram-96CEB4?style=for-the-badge&logo=instagram&logoColor=white&labelColor=96CEB4"/>
-    </a>
-  </p>
-
 </div>
 
----
+<div align="center">
+  
+  <!-- Interactive 3D cards style presentation -->
+  <table>
+  <tr>
+  <td width="55%" valign="top">
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> **About Me**
-
-<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
-
-<div style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+### 💫 **Who Am I?**
 
 ```typescript
 interface Developer {
   name: string;
-  degree: string;
-  university: string;
-  location: string;
-  currentFocus: string[];
-  techStack: string[];
-  interests: string[];
-  availableFor: string;
+  role: string[];
+  education: {
+    degree: string;
+    university: string;
+    country: string;
+  };
+  passion: string[];
+  currentlyBuilding: string[];
+  dreamingAbout: string[];
 }
 
-const sasinduKaveesha: Developer = {
+const sasindukaveesha: Developer = {
   name: "Sasindu Kaveesha",
-  degree: "Bachelor of Information and Communication Technology Honours",
-  university: "Uva Wellassa University, Sri Lanka",
-  location: "Sri Lanka 🇱🇰",
-  currentFocus: [
-    "Full Stack Development",
-    "Cloud Architecture", 
-    "Mobile Applications",
-    "System Design"
+  role: [
+    "🚀 Full Stack Developer",
+    "☁️ Cloud Solutions Architect", 
+    "📱 Mobile App Creator",
+    "🧩 Problem Solver"
   ],
-  techStack: [
-    "React/Next.js", "Node.js", "Flutter", 
-    "MongoDB", "AWS", "Docker"
+  education: {
+    degree: "BICT Honours",
+    university: "Uva Wellassa University",
+    country: "Sri Lanka 🇱🇰"
+  },
+  passion: [
+    "Building scalable applications",
+    "Creating seamless user experiences", 
+    "Learning cutting-edge technologies",
+    "Open source contribution"
   ],
-  interests: [
-    "Modern Web Technologies",
-    "Scalable System Architecture",
-    "DevOps & Cloud Computing",
-    "Open Source Contribution"
+  currentlyBuilding: [
+    "🍽️ Advanced Restaurant Management System",
+    "📱 Flutter Mobile Applications", 
+    "☁️ Cloud-Native Solutions",
+    "🤖 AI-Powered Tools"
   ],
-  availableFor: "Full-time opportunities & freelance projects"
+  dreamingAbout: [
+    "🌟 Next-gen web technologies",
+    "🚀 Startup innovations",
+    "🌍 Global impact projects"
+  ]
 };
 ```
 
-### 🎯 **What Drives Me**
-- 💡 **Innovation Enthusiast** - Always exploring cutting-edge technologies
-- 🏗️ **Solution Architect** - Building scalable, robust applications
-- 🌐 **Full Stack Mastery** - From concept to deployment
-- ☁️ **Cloud Native** - Leveraging AWS for modern solutions
-- 📱 **Mobile First** - Creating seamless user experiences
+### 🔥 **What Drives Me**
+
+<div align="left">
+
+🎯 **Innovation First** → Always exploring tomorrow's tech today  
+⚡ **Performance Obsessed** → Building lightning-fast, scalable solutions  
+🎨 **Design Conscious** → Crafting beautiful, intuitive user experiences  
+☁️ **Cloud Native** → Leveraging modern infrastructure for global reach  
+🤝 **Team Player** → Collaborating to build something greater together  
+📚 **Lifelong Learner** → Constantly evolving with the tech landscape
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+  </td>
+  <td width="45%" valign="top">
+    
+### 🌈 **My Development Journey**
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> **Tech Arsenal**
+<img align="right" alt="Coding Animation" width="100%" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+
+<br>
+
+### 📊 **Current Stats**
 
 <div align="center">
 
-### 🌐 **Frontend Development**
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-</p>
+<!-- Modern stat cards -->
+<img src="https://img.shields.io/badge/Experience-3%2B%20Years-00F5FF?style=for-the-badge&logo=timeline&logoColor=white&labelColor=1a1a1a"/>
 
-### 📱 **Mobile Development**
-<p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-</p>
+<img src="https://img.shields.io/badge/Projects%20Built-12%2B-4ECDC4?style=for-the-badge&logo=rocket&logoColor=white&labelColor=1a1a1a"/>
 
-### ⚙️ **Backend Development**
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-</p>
+<img src="https://img.shields.io/badge/Technologies-15%2B-FF6B6B?style=for-the-badge&logo=stackshare&logoColor=white&labelColor=1a1a1a"/>
 
-### 🗄️ **Database & Storage**
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
-</p>
-
-### ☁️ **Cloud & DevOps**
-<p>
-  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
-
-### 🛠️ **Development Tools**
-<p>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-</p>
+<img src="https://img.shields.io/badge/Coffee%20Cups-∞-45B7D1?style=for-the-badge&logo=coffeescript&logoColor=white&labelColor=1a1a1a"/>
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+<br>
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> **Featured Projects**
+### 🎮 **Fun Facts**
 
 <div align="center">
 
-### 🚀 **Project Showcase**
+```javascript
+const funFacts = {
+  🌙 nightOwl: true,
+  ☕ coffeeAddict: "Definitely!",
+  🎵 codesTo: ["Lo-fi Hip Hop", "Electronic"],
+  🎯 superPower: "Debugging at 3 AM",
+  🍕 fuelSource: "Pizza & Energy Drinks",
+  🎨 hobbies: ["Gaming", "Photography", "Tech Reviews"],
+  📖 currentlyReading: "Clean Architecture",
+  🎲 randomSkill: "Can solve Rubik's cube!"
+};
+```
 
 </div>
 
-<table align="center">
+  </td>
+  </tr>
+  </table>
+  
+</div>
+
+---
+
+<div align="center">
+  
+### 🌟 **Philosophy & Approach**
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=500&color=00F5FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Code+is+poetry+written+for+machines;But+magic+happens+when+humans+understand+it;Let's+build+the+future%2C+one+commit+at+a+time!" alt="Philosophy"/>
+
+</div>
+
+<div align="center">
+
+<!-- Modern card-style principles -->
+<table>
 <tr>
-  <td width="50%" valign="top">
-    
-### 🍽️ **Advanced Restaurant Management System**
-<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="300" height="150"/>
-
-**Complete Enterprise Solution**
-- 🎯 **Real-time Dashboard** with analytics
-- 👥 **Multi-role Authentication** system  
-- 💳 **Payment Gateway** integration
-- 📊 **Inventory & Sales** management
-- 📱 **Responsive Design** for all devices
-
-**Tech Stack:** React, Node.js, MongoDB, AWS
-    
-  </td>
-  <td width="50%" valign="top">
-    
-### 📱 **Flutter Restaurant Mobile App**
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="300" height="150"/>
-
-**Customer Mobile Experience**
-- 🛒 **Smart Ordering** with real-time tracking
-- 🗺️ **Location Services** & GPS integration
-- ⭐ **Review System** with ratings
-- 💰 **Multiple Payment** gateways
-- 🔔 **Push Notifications** & alerts
-
-**Tech Stack:** Flutter, Firebase, REST APIs
-    
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-    
-### 🎓 **Student Registration & Management**
-<img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="300" height="150"/>
-
-**Educational Platform**
-- 📋 **Student Lifecycle** management
-- 📚 **Course Registration** system
-- 📊 **Academic Progress** tracking
-- 🔐 **Secure Authentication** & authorization
-- 📧 **Automated Notifications** system
-
-**Tech Stack:** Kotlin, Android, SQLite, Material UI
-    
-  </td>
-  <td width="50%" valign="top">
-    
-### 🌐 **Cloud-Native Web Applications**
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" height="150"/>
-
-**Scalable Modern Solutions**
-- ⚡ **Serverless Architecture** with AWS Lambda
-- 🐳 **Containerized Deployment** using Docker
-- 🔄 **CI/CD Pipeline** automation
-- 📈 **Auto-scaling** capabilities
-- 🛡️ **Security Best Practices** implemented
-
-**Tech Stack:** Next.js, AWS, Docker, MongoDB
-    
-  </td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/color/64/000000/code.png"/>
+<h4>Clean Code</h4>
+<p><em>Write code that tells a story</em></p>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/color/64/000000/speed.png"/>
+<h4>Performance</h4>
+<p><em>Every millisecond matters</em></p>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/color/64/000000/user-experience.png"/>
+<h4>User First</h4>
+<p><em>Technology serves people</em></p>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/color/64/000000/infinity.png"/>
+<h4>Never Stop</h4>
+<p><em>Learning is a journey</em></p>
+</td>
 </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35"> **GitHub Activity**
-
-<div align="center">
-
-<!-- Custom GitHub Stats with modern theme -->
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=sasindukaveesha&show_icons=true&theme=react&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF&text_color=FFFFFF&border_color=30363D&hide_border=false" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sasindukaveesha&layout=compact&theme=react&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF&border_color=30363D&hide_border=false" />
-
-<!-- Streak Stats -->
-<img width="48%" src="https://streak-stats.demolab.com?user=sasindukaveesha&theme=react&background=0D1117&border=30363D&stroke=00F5FF&ring=00F5FF&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00F5FF&sideLabels=FFFFFF&dates=FFFFFF" />
-
-<!-- GitHub Activity Graph -->
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=sasindukaveesha&theme=react-dark&bg_color=0D1117&color=00F5FF&line=00F5FF&point=FFFFFF&area=true&hide_border=false" />
-
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+---
 
-## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35"> **Achievements & Recognition**
-
-<div align="center">
-
-<!-- GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=sasindukaveesha&theme=onedark&column=4&margin-w=15&margin-h=15&no-frame=false&no-bg=false" />
-
-</div>
-
-### 🏆 **Milestones Achieved**
+### 🚀 **Current Focus Areas**
 
 <div align="center">
 
-| 🚀 **Projects Built** | 📱 **Mobile Apps** | 🌐 **Web Systems** | ☁️ **Cloud Deployments** |
-|:---:|:---:|:---:|:---:|
-| **12+** | **4** | **8** | **6** |
-| *Full-stack solutions* | *Flutter & Kotlin* | *React & Next.js* | *AWS & Docker* |
+<!-- Interactive progress bars -->
+<table width="100%">
+<tr>
+<td width="50%">
 
-</div>
+**🌐 Frontend Development**
+```
+React/Next.js     ████████████████████ 95%
+TypeScript        ████████████████████ 90%
+Modern CSS        █████████████████    85%
+```
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+**📱 Mobile Development**
+```
+Flutter           ████████████████     80%
+Kotlin            ██████████████       70%
+Cross-platform    ████████████████     80%
+```
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> **Let's Build Something Amazing!**
+</td>
+<td width="50%">
 
-<div align="center">
-  
-  <img src="https://media.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif" width="400" height="200"/>
-  
-  ### 💫 **Ready to Collaborate?**
-  
-  <p style="font-size: 18px; font-weight: bold;">
-    🚀 <strong>Startup Projects</strong> • 🌐 <strong>Full-Stack Development</strong> • 📱 <strong>Mobile Applications</strong> • ☁️ <strong>Cloud Solutions</strong>
-  </p>
-  
-  <br>
-  
-  <table align="center">
-    <tr>
-      <td align="center" width="33%">
-        <img src="https://img.icons8.com/color/48/000000/email.png"/>
-        <br><strong>Email</strong>
-        <br><a href="mailto:sasindukaveesha@gmail.com">sasindukaveesha@gmail.com</a>
-      </td>
-      <td align="center" width="33%">
-        <img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
-        <br><strong>LinkedIn</strong>
-        <br><a href="https://linkedin.com/in/sasindukaveesha">Professional Network</a>
-      </td>
-      <td align="center" width="33%">
-        <img src="https://img.icons8.com/color/48/000000/portfolio.png"/>
-        <br><strong>Portfolio</strong>
-        <br><a href="https://sasindukaveesha.github.io">View My Work</a>
-      </td>
-    </tr>
-  </table>
+**⚙️ Backend Development**
+```
+Node.js           ████████████████████ 95%
+Database Design   █████████████████    85%
+API Development   ████████████████████ 90%
+```
+
+**☁️ Cloud & DevOps**
+```
+AWS Services      ██████████████       70%
+Docker            ████████████████     80%
+CI/CD             █████████████        65%
+```
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -307,31 +219,25 @@ const sasinduKaveesha: Developer = {
 
 <div align="center">
   
-  ### 🎵 **Coding Soundtrack**
-  
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=sasindukaveesha&count=1&unique=true" alt="Spotify"/>
-  
-  <br><br>
-  
-  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="200"/>
-  
-  **✨ "The best way to predict the future is to create it." - Peter Drucker ✨**
-  
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-  
-  <!-- Contribution Snake Animation -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sasindukaveesha/sasindukaveesha/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sasindukaveesha/sasindukaveesha/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sasindukaveesha/sasindukaveesha/output/github-contribution-grid-snake.svg">
-  </picture>
-  
+### ✨ **Let's Connect & Create Magic Together**
+
+<img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="200"/>
+
+<!-- Modern social connection cards -->
+<p>
+  <a href="mailto:sasindukaveesha@gmail.com">
+    <img src="https://img.shields.io/badge/Let's%20Chat-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white&labelColor=FF6B6B"/>
+  </a>
+  <a href="https://linkedin.com/in/sasindukaveesha">
+    <img src="https://img.shields.io/badge/Connect%20Pro-4ECDC4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=4ECDC4"/>
+  </a>
+  <a href="https://sasindukaveesha.github.io">
+    <img src="https://img.shields.io/badge/View%20Portfolio-45B7D1?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=45B7D1"/>
+  </a>
+</p>
+
+**🌟 Always open to collaborating on innovative projects that make a difference! 🌟**
+
 </div>
 
----
-
-<div align="center">
-  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="150"/>
-  <br><br>
-  <i><strong>🌟 From <a href="https://github.com/sasindukaveesha">Sasindu Kaveesha</a> | Building the future, one commit at a time 🚀</strong></i>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer&animation=fadeIn"/>
