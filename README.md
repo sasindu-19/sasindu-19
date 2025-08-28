@@ -141,11 +141,6 @@ const funFacts = {
 <p><em>Every millisecond matters</em></p>
 </td>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/color/64/000000/user-experience.png"/>
-<h4>User First</h4>
-<p><em>Technology serves people</em></p>
-</td>
-<td align="center" width="25%">
 <img src="https://img.icons8.com/color/64/000000/infinity.png"/>
 <h4>Never Stop</h4>
 <p><em>Learning is a journey</em></p>
