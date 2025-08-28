@@ -17,18 +17,6 @@
 ### 💫 **Who Am I?**
 
 ```typescript
-interface Developer {
-  name: string;
-  role: string[];
-  education: {
-    degree: string;
-    university: string;
-    country: string;
-  };
-  passion: string[];
-  currentlyBuilding: string[];
-  dreamingAbout: string[];
-}
 
 const sasindukaveesha: Developer = {
   name: "Sasindu Kaveesha",
@@ -90,7 +78,7 @@ const sasindukaveesha: Developer = {
 <div align="center">
 
 <!-- Modern stat cards -->
-<img src="https://img.shields.io/badge/Experience-3%2B%20Years-00F5FF?style=for-the-badge&logo=timeline&logoColor=white&labelColor=1a1a1a"/>
+<img src="https://img.shields.io/badge/Experience-1%2B%20Years-00F5FF?style=for-the-badge&logo=timeline&logoColor=white&labelColor=1a1a1a"/>
 
 <img src="https://img.shields.io/badge/Projects%20Built-12%2B-4ECDC4?style=for-the-badge&logo=rocket&logoColor=white&labelColor=1a1a1a"/>
 
