@@ -51,19 +51,6 @@ const sasindukaveesha: Developer = {
 };
 ```
 
-### 🔥 **What Drives Me**
-
-<div align="left">
-
-🎯 **Innovation First** → Always exploring tomorrow's tech today  
-⚡ **Performance Obsessed** → Building lightning-fast, scalable solutions  
-🎨 **Design Conscious** → Crafting beautiful, intuitive user experiences  
-☁️ **Cloud Native** → Leveraging modern infrastructure for global reach  
-🤝 **Team Player** → Collaborating to build something greater together  
-📚 **Lifelong Learner** → Constantly evolving with the tech landscape
-
-</div>
-
   </td>
   <td width="45%" valign="top">
     
@@ -89,26 +76,6 @@ const sasindukaveesha: Developer = {
 </div>
 
 <br>
-
-### 🎮 **Fun Facts**
-
-<div align="center">
-
-```javascript
-const funFacts = {
-  🌙 nightOwl: true,
-  ☕ coffeeAddict: "Definitely!",
-  🎵 codesTo: ["Lo-fi Hip Hop", "Electronic"],
-  🎯 superPower: "Debugging at 3 AM",
-  🍕 fuelSource: "Pizza & Energy Drinks",
-  🎨 hobbies: ["Gaming", "Photography", "Tech Reviews"],
-  📖 currentlyReading: "Clean Architecture",
-  🎲 randomSkill: "Can solve Rubik's cube!"
-};
-```
-
-</div>
-
   </td>
   </tr>
   </table>
@@ -148,7 +115,7 @@ const funFacts = {
 </tr>
 </table>
 
-</div>
+</div><br><br><br><br>
 
 ---
 
